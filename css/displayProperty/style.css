@@ -1,0 +1,29 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: square;
+    text-align: end;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+}
+
+p {
+    display: block;
+}
+a {
+    width: 40px;
+    display: inline-block;
+}
+li:hover {
+    color: violet;
+    cursor: pointer;
+}

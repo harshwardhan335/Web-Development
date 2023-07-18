@@ -1,0 +1,19 @@
+* {
+    font-family: fantasy;
+}
+body {
+    font-size: 24px;
+}
+#first, #second>p {
+    color: greenyellow;
+}
+.purple {
+    color: rgb(239, 181, 44);
+}
+.highlight {
+    background-color: darkorange;
+    font-weight: bolder;
+}
+p:hover {
+    font-style: italic;
+}
